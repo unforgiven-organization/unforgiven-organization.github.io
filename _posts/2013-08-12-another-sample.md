@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another sample
+title: Unforgiven is here bitches
 categories:
 - blog
 ---
@@ -15,7 +15,7 @@ chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ---
 
-# It's all in the game.
+# Unforgiven is here bitches title
 
 ## You come at the king, you best not miss.
 
